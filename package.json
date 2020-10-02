@@ -1,0 +1,20 @@
+{
+  "name": "async-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dylan R. Johnston <Dylan.R.Johnston@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "eslint-config-airbnb-typescript": "^11.0.0",
+    "eslint-plugin-functional": "^3.0.2",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.3.0",
+    "@typescript-eslint/parser": "^4.3.0",
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
